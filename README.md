@@ -9,8 +9,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaroslawkubiak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img height="150" src="https://jaroslawkubiak.pl/img/luke.png"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaroslawkubiak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />&nbsp;
+  <img height="150" src="https://jaroslawkubiak.pl/img/luke.png"  />&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaroslawkubiak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -37,14 +37,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" height="30" alt="handlebars logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-origina.svg" height="30" alt="handlebars logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="jaroslawkubiak82@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
@@ -54,6 +54,7 @@
   <a href="https://www.youtube.com/@jarekkubiak" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
   </a>
+  <a href="https://jaroslawkubiak.pl/" target="_blank">
+    <img src="https://jaroslawkubiak.pl/img/portfolio-logo.png" height="40" alt="portfolio logo"  />
+  </a>
 </div>
-
-
