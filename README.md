@@ -15,7 +15,7 @@
 
 ###
 
-<img align="right" height="150" src="https://jaroslawkubiak.pl/img/me2.jpg"  />
+<img align="right" height="150" src="https://jaroslawkubiak.pl/img/luke.png"  />
 
 ###
 
