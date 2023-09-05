@@ -1,9 +1,9 @@
 <h2 align="left">Hi 👋! My name is Jarek and I'm a want to be JavaScript developer.</h2>
 <p>
-- 🔭 I’m currently searching for a Junior JS/React Developer job
-- 🌱 I’m currently learning TypeScript and mastering React
-- 📫 How to reach me: via e-mail
-- ⚡ Fun fact: I collect Lego Star Wars minifigures
+- 🔭 I’m currently searching for a Junior JS/React Developer job</br>
+- 🌱 I’m currently learning TypeScript and mastering React</br>
+- 📫 How to reach me: <a href="mailto: jaroslawkubiak82@gmail.com" title="Contact">e-mail</a></br>
+- ⚡ Fun fact: I collect Lego Star Wars minifigures </br>
 </p>
 
 ###
