@@ -1,7 +1,7 @@
-<h2 align="left">Hi 👋! My name is Jarek and I'm a want to be JavaScript developer.</h2>
+<h2 align="left">Hi 👋! My name is Jarek and I'm Full Stack developer.</h2>
 <p>
-- 🔭 I’m currently searching for a Junior JS/React/Node.js Developer job</br>
-- 🌱 I’m currently learning TypeScript, Node.js and mastering React</br>
+- 🔭 I’m currently working as Junior Software Engineering</br>
+- 🌱 I’m currently learning Angular and TypeScript</br>
 - 📫 How to reach me: <a href="mailto: jaroslawkubiak82@gmail.com" title="Contact">e-mail</a></br>
 - ⚡ Fun fact: I'm huge fan of Lego and i collect Lego Star Wars minifigures </br>
 </p>
@@ -29,6 +29,9 @@
   <img src="https://jaroslawkubiak.pl/svg/express.svg" height="30" alt="express logo"  />
   <img width="12" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
 
@@ -50,7 +53,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwindcss logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo"  />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
