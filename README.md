@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Jarek and I'm Full Stack developer.</h2>
 <p>
-- 🔭 I’m currently working as Junior Software Engineering</br>
-- 🌱 I’m currently learning Angular and TypeScript</br>
+- 🔭 I’m currently working as Junior Fullstack Developer</br>
+- 🌱 I’m currently working with Angular and TypeScript</br>
 - 📫 How to reach me: <a href="mailto: jaroslawkubiak82@gmail.com" title="Contact">e-mail</a></br>
 - ⚡ Fun fact: I'm huge fan of Lego and i collect Lego Star Wars minifigures </br>
 </p>
@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" backgroudn-color="#ffffff" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="angular logo"  />
